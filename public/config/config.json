@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDb964B40Ac36ca7bcACD5A75E14DCCFdC7D50B9f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xdb964b40ac36ca7bcacd5a75e14dccfdc7d50b9f",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID":  4
+  },
+  "NFT_NAME": "Dmpl",
+  "SYMBOL": "DM",
+  "MAX_SUPPLY": 25,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dmpl",
+  "SHOW_BACKGROUND": true
+}
